@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Najemnicy": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
