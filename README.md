@@ -2,7 +2,7 @@
 Knapsack solution for Mercenary (food/entertainment) problem
 
 # Data
-Data is reader from user input into console with this format
+Data is readed from user input into console with this format
 
 * 10 8
 * 4
